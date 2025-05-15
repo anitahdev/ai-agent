@@ -27,7 +27,7 @@ Ideal for:
 | 🧠 **LangChain** | Agent orchestration |
 | ✍️ **Pydantic** | Output validation |
 | 🤖 **Claude 3.5 Sonnet** | LLM for smart, structured output |
-| 🔎 **DuckDuckGo** (or Tavily) | Web search |
+| 🔎 **DuckDuckGo** | Web search |
 | 📚 **Wikipedia API** | Knowledge base |
 | 📁 **Custom Save Tool** | Persists research |
 
